@@ -33,7 +33,7 @@ Distance (x1, x2, y1, y2);
 // 12821 -> да
 // 23432 -> да
 
-Console.WriteLine ("");
+Console.WriteLine (""); 
 Console.WriteLine ("Давайте определим является ли число палиндромом");
 Console.WriteLine ("");
 // Вычленение цифры. Метод возвратный
